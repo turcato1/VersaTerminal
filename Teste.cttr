@@ -1,0 +1,13 @@
+[Arquivo de Comandos Terminal TTR]
+
+[C1:Servo On]
+
+%<STX>ABC<ETX>123#
+
+[C2:JOG+]
+
+[C3:JOG-]
+
+[C4:Stop]
+
+[END]

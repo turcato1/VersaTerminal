@@ -1,0 +1,22 @@
+[Comandos Terminal]
+
+[C1:Servo On]
+
+%<STX>ABC<ETX>123#
+%<432>fasdjl&*((*%
+
+[C2:Test]
+
+[C3:JOG-]
+
+%<STX>ABC<ETX>1
+%<STX>ABC<ETX>2
+%<STX>ABC<ETX>3
+%<STX>ABC<ETX>4
+%<432>fasdjl&*((*%
+
+[C4:]
+
+%<STX>ABC<ETX><HT>
+
+[END]
